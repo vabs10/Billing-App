@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Chocolate Cake",
+    "category": "Cakes",
+    "price": 500,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Blueberry Muffin",
+    "category": "Muffins",
+    "price": 150,
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "Croissant",
+    "category": "Pastries",
+    "price": 100,
+    "rating": 4.8
+  }
+]
